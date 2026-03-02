@@ -8,7 +8,7 @@ This project analyzes and simulates the CJ Cup 2025 golf tournament using statis
 - 📈 **Linear Regression Modeling**  
   Simulated Round 1 and Round 2 scores for individual golfers using Python-based linear regression.
 
-- 🧠 **Logistic Regression for Top Finishes**  
+- 🧠 **Logistic Regression for Top Finishes**   
   Built classification models to predict each golfer’s probability of finishing in:
   - Top 5  
   - Top 10  
